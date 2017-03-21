@@ -3,24 +3,24 @@
     <option name="stats">
       <map>
         <entry key="'F7'" value="2" />
-        <entry key="'F8'" value="43" />
+        <entry key="'F8'" value="54" />
         <entry key="'âŒ˜0'" value="1" />
         <entry key="'âŒ˜1'" value="4" />
         <entry key="'âŒ˜3'" value="1" />
         <entry key="'âŒ˜4'" value="22" />
         <entry key="'âŒ˜5'" value="9" />
         <entry key="'⇧F6'" value="5" />
-        <entry key="'⌃D'" value="17" />
-        <entry key="'⌃R'" value="65" />
-        <entry key="'⌃⇧F4'" value="4" />
+        <entry key="'⌃D'" value="19" />
+        <entry key="'⌃R'" value="66" />
+        <entry key="'⌃⇧F4'" value="5" />
         <entry key="'⌃⇧R'" value="7" />
-        <entry key="'⌘F2'" value="38" />
+        <entry key="'⌘F2'" value="41" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="16" />
         <entry key="'⌘R'" value="9" />
         <entry key="'⌥F7'" value="16" />
         <entry key="'⌥⌘B' or '⌥⌘Button1 Click'" value="1" />
         <entry key="'⌥⌘M'" value="5" />
-        <entry key="'⌥⌘R'" value="34" />
+        <entry key="'⌥⌘R'" value="63" />
         <entry key="'⌦' or '⌫' or '⌘⌫'" value="3" />
       </map>
     </option>
