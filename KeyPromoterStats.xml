@@ -2,8 +2,8 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'F7'" value="22" />
-        <entry key="'F8'" value="155" />
+        <entry key="'F7'" value="24" />
+        <entry key="'F8'" value="161" />
         <entry key="'âŒ˜0'" value="2" />
         <entry key="'âŒ˜1'" value="18" />
         <entry key="'âŒ˜3'" value="3" />
@@ -13,18 +13,19 @@
         <entry key="'⇧F6'" value="6" />
         <entry key="'⌃D'" value="21" />
         <entry key="'⌃R'" value="66" />
+        <entry key="'⌃⇧D'" value="1" />
         <entry key="'⌃⇧F4'" value="6" />
-        <entry key="'⌃⇧R'" value="18" />
+        <entry key="'⌃⇧R'" value="21" />
         <entry key="'⌘;'" value="1" />
-        <entry key="'⌘F2'" value="42" />
+        <entry key="'⌘F2'" value="46" />
         <entry key="'⌘G' or '↓' or '⌃N' or '⏎'" value="16" />
         <entry key="'⌘N' or '⌃⏎'" value="2" />
-        <entry key="'⌘R'" value="13" />
+        <entry key="'⌘R'" value="14" />
         <entry key="'⌘V'" value="1" />
         <entry key="'⌥F7'" value="39" />
         <entry key="'⌥⌘B' or '⌥⌘Button1 Click'" value="1" />
         <entry key="'⌥⌘M'" value="5" />
-        <entry key="'⌥⌘R'" value="176" />
+        <entry key="'⌥⌘R'" value="177" />
         <entry key="'⌦' or '⌫' or '⌘⌫'" value="3" />
       </map>
     </option>
