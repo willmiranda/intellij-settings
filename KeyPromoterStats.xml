@@ -15,7 +15,7 @@
         <entry key="'⇧F6'" value="27" />
         <entry key="'⇧⌘F11'" value="6" />
         <entry key="'⇧⌘G' or '↑' or '⌃P' or '⇧⏎'" value="3" />
-        <entry key="'⌃D'" value="35" />
+        <entry key="'⌃D'" value="36" />
         <entry key="'⌃R'" value="126" />
         <entry key="'⌃⇧D'" value="7" />
         <entry key="'⌃⇧F4'" value="12" />
@@ -39,7 +39,7 @@
         <entry key="'⌥⇧⌘V'" value="1" />
         <entry key="'⌥⌘B' or '⌥⌘Button1 Click'" value="6" />
         <entry key="'⌥⌘M'" value="16" />
-        <entry key="'⌥⌘R'" value="193" />
+        <entry key="'⌥⌘R'" value="194" />
         <entry key="'⌦' or '⌫' or '⌘⌫'" value="38" />
       </map>
     </option>
