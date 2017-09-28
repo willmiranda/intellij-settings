@@ -19,8 +19,8 @@
         <entry key="'⌃R'" value="126" />
         <entry key="'⌃⇧D'" value="7" />
         <entry key="'⌃⇧F4'" value="12" />
-        <entry key="'⌃⇧R'" value="125" />
-        <entry key="'⌃⌥O'" value="14" />
+        <entry key="'⌃⇧R'" value="128" />
+        <entry key="'⌃⌥O'" value="15" />
         <entry key="'⌘;'" value="1" />
         <entry key="'⌘C'" value="4" />
         <entry key="'⌘D'" value="1" />
@@ -33,7 +33,7 @@
         <entry key="'⌘V'" value="8" />
         <entry key="'⌘W'" value="1" />
         <entry key="'⌘X' or '⇧⌦'" value="1" />
-        <entry key="'⌥F7'" value="122" />
+        <entry key="'⌥F7'" value="124" />
         <entry key="'⌥S'" value="2" />
         <entry key="'⌥T'" value="1" />
         <entry key="'⌥⇧⌘V'" value="1" />
